@@ -7,7 +7,7 @@
 
 <b>Rivers and bridges are decorations</b>
 
-Run in console. C# 7.0
+Run in console. .NET 7.0
 
 ### Output:
 
